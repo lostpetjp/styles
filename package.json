@@ -1,0 +1,25 @@
+{
+  "name": "@lostpetjp/styles",
+  "version": "1.0.0",
+  "description": "LOSTPET.JP (迷子ペットのデータベース)のスタイルを管理するリポジトリ。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostpetjp/styles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lostpetjp/styles/issues"
+  },
+  "homepage": "https://github.com/lostpetjp/styles#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "cssnano": "^5.1.14",
+    "postcss": "^8.4.19",
+    "postcss-import": "^15.0.0"
+  }
+}
