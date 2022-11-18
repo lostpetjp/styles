@@ -1,0 +1,13 @@
+.t1 {
+  color-scheme: light;
+
+  --a1: #333;
+  --a2: #666;
+}
+
+.t2 {
+  color-scheme: dark;
+
+  --a1: #eee;
+  --a2: #bbb;
+}
