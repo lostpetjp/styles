@@ -13,18 +13,17 @@ exports.buildCss = async (options) => {
   const tokens = options.src.split("/");
   tokens.pop();
 
-  let dist = tokens.pop() + '.css';
-  if ('component' === tokens.pop()) dist = "component/" + dist;
+  let dist = '/' + tokens.pop();
+  if ('component' === tokens.pop()) dist = "/component" + dist;
 
   postcss([...(options.minify ? [cssnano({ reduceIdents: false })] : []), ...[
     autoprefixer(),
   ]])
     .use(postcssImport())
-    .process(fs.readFileSync('src' + options.src, 'utf8'), {
-      from: "src" + options.src,
+    .process(fs.readFileSync(options.src, 'utf8'), {
+      from: options.src,
     })
     .then((result) => {
-      // fs.writeFileSync(`dist${options.src}` + (options.minify ? ".min" : "") + `.css`, result.css)
-      fs.writeFileSync(`dist${dist}` /*+ (options.minify ? ".min" : "")*/ + `.css`, result.css)
+      fs.writeFileSync(`./dist${dist}` /*+ (options.minify ? ".min" : "")*/ + `.css`, result.css)
     });
 };
