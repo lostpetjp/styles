@@ -9,7 +9,7 @@ Promise.all([
     name,
   }),*/
   buildCss({
-    src: 'src' + process.argv[2],
+    src: process.argv[2],
     minify: true,
     name,
   }),
