@@ -1,6 +1,18 @@
 html {
-  background-color: var(--v2a);
-  color: var(--v1a);
+  background-color: var(--b1);
+  color: var(--a2);
   font: 400 15px/1.618 -apple-system, "BlinkMacSystemFont", Helvetica Neue, Helvetica, Arial, sans-serif;
   word-break: break-all;
+
+  --s1: 8px;
+}
+
+body {
+  margin: unset;
+  padding: unset;
+}
+
+img,
+svg {
+  display: block;
 }
