@@ -1,0 +1,25 @@
+@media screen and (min-width:1024px) {
+  .d2 {
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    grid-template-rows: 1fr;
+  }
+
+  .d2a {
+    padding: 32px 32px 128px;
+    background-color: var(--b2);
+  }
+
+  .d2b {
+    width: 240px;
+    grid-area: 1 / 1 / 2 / 2;
+  }
+
+  .d2a1 {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--b1);
+    padding: 48px;
+    border-radius: 6px;
+  }
+}
