@@ -1,0 +1,33 @@
+.d1 {
+  border-bottom: 1px solid var(--b3);
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding-left: var(--s1);
+  padding-right: var(--s1);
+  position: sticky;
+  top: 0;
+  left: 0;
+  background-color: var(--b1);
+}
+
+.d1a {
+  width: 24px;
+  height: 24px;
+  margin-right: auto;
+}
+
+.d1a1 {
+  width: 24px;
+  height: 24px;
+}
+
+.d1b {
+  height: 32px;
+  line-height: 32px;
+  border-radius: 6px;
+  background-color: var(--t1);
+  color: var(--a1);
+  padding-left: 16px;
+  padding-right: 16px;
+}
