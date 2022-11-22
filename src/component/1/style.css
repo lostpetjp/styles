@@ -1,6 +1,8 @@
 .c1 {
   font-size: 1.5rem;
-  margin-bottom: 18px;
+  margin: 0 0 18px;
+  padding: unset;
   text-align: center;
   line-height: 1;
+  border-radius: 4px;
 }
