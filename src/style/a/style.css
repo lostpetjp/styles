@@ -1,0 +1,9 @@
+.a1 {
+  color: var(--a5);
+}
+
+.a2 {
+  color: var(--a2);
+  display: block;
+  text-decoration: none;
+}
