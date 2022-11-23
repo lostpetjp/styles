@@ -6,7 +6,9 @@
   }
 
   .d2a {
-    padding: 32px 32px 128px;
+    padding-right: 32px;
+    padding-bottom: 128px;
+    padding-left: 32px;
     background-color: var(--b2);
   }
 
@@ -21,5 +23,16 @@
     background-color: var(--b1);
     padding: 48px;
     border-radius: 6px;
+  }
+
+  .d2b1 {
+    position: sticky;
+    top: 49px;
+    left: 0;
+  }
+
+  .d2b1b {
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
