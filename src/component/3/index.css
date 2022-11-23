@@ -1,1 +1,6 @@
-@import './style.css';
+@import './min360.css';
+@import './min480.css';
+@import './min768.css';
+@import './min1024.css';
+@import './variables.css';
+@import './hover.css';
