@@ -15,6 +15,11 @@
 | 7 | `768px`のテンプレート。 |
 | 8 | `1024px`のテンプレート。 |
 | 9 | `row-gap: 24px`のコンテンツ。 |
+| 10 | `/style.css`の`@media(hover: hover)`。 |
+| 11 | `/style.css`の`@media(prefers-color-scheme: light)`。 |
+| 12 | `/style.css`の`@media(prefers-color-scheme: dark)`。 |
+| 13 | `/style.css`の`@media(prefers-color-scheme: light) and (hover: hover)`。 |
+| 14 | `/style.css`の`@media(prefers-color-scheme: dark) and (hover: hover)`。 |
 
 
 
