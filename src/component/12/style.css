@@ -1,0 +1,21 @@
+@media (prefers-color-scheme: dark) {
+  .t2 {
+    color-scheme: dark;
+
+    --a1: #fff;
+    --a2: #eee;
+    --a3: #bbb;
+    --a4: #999;
+    --a5: #93c5fd;
+    --a6: #ff6961;
+    --a7: #fce96a;
+
+    --b1: #1c1c1e;
+    --b2: #2c2c2e;
+    --b3: #3a3a3c;
+    --b4: #48484a;
+    --b6: #636366;
+
+    --t1: #156bf4;
+  }
+}
