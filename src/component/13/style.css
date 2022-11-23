@@ -1,0 +1,7 @@
+@media (hover: hover) and (prefers-color-scheme: light) {
+  .t1 {
+    --a5h: #0576ff;
+
+    --t1h: #fadbb2;
+  }
+}
