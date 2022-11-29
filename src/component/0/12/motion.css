@@ -1,0 +1,10 @@
+@media (prefers-reduced-motion: no-preference) {
+  .c12 {
+    transition: opacity .15s, bottom .15s;
+  }
+
+  .c12p {
+    opacity: 0;
+    bottom: 0;
+  }
+}
