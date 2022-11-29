@@ -1,0 +1,8 @@
+.ht3 {
+  background-color: var(--t3);
+}
+
+.c4.ht3 {
+  color: #fff;
+  /* require overwrite */
+}

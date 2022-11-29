@@ -1,0 +1,5 @@
+@media (hover: hover) {
+  .ht3:hover {
+    background-color: var(--t3h);
+  }
+}

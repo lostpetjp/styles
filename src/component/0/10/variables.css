@@ -1,0 +1,23 @@
+@media (prefers-color-scheme: light) {
+  .t1 {
+    --t3: #dc2626;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .t2 {
+    --t3: #ef4444;
+  }
+}
+
+@media (hover: hover) and (prefers-color-scheme: light) {
+  .t1 {
+    --t3h: #e14747;
+  }
+}
+
+@media (hover: hover) and (prefers-color-scheme: dark) {
+  .t1 {
+    --t3h: #eb1e1e;
+  }
+}
