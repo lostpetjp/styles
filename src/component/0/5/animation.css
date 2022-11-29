@@ -1,0 +1,10 @@
+/* animation */
+@media (prefers-reduced-motion: no-preference) {
+  .c5a {
+    margin-top: -24px;
+  }
+
+  .c5c {
+    transition: margin-top .3s;
+  }
+}

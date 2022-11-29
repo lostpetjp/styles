@@ -1,0 +1,60 @@
+.c5o {
+  width: 100vw;
+  width: 100dvw;
+  height: 100vh;
+  height: 100dvh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  contain: layout paint size;
+}
+
+.c5d {
+  display: grid;
+  grid-template-columns: 40px 1fr 40px;
+  align-items: center;
+  padding-top: 16px;
+}
+
+.c5h {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  grid-column: 2/3;
+  margin: unset;
+  padding: unset;
+}
+
+.c5d1 {
+  grid-column: 3/4;
+  cursor: pointer;
+  display: block;
+  text-decoration: none;
+  width: 1em;
+  height: 1em;
+  display: block;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+.c5b {
+  padding: 16px;
+}
+
+.c5c {
+  width: 360px;
+  border-radius: 6px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: var(--b1);
+  contain: layout;
+}
+
+.c5f {
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
