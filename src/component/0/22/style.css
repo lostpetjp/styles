@@ -1,0 +1,4 @@
+.a3:disabled {
+  opacity: .4;
+  pointer-events: none;
+}
