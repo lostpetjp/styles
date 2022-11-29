@@ -1,0 +1,13 @@
+@media (prefers-color-scheme: light) {
+  .t1 {
+    --c12t2a: #FDE8E8;
+    --c12t2b: #771D1D;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .t2 {
+    --c12t2a: #9B1C1C;
+    --c12t2b: #FBD5D5;
+  }
+}
