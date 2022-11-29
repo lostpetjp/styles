@@ -1,0 +1,10 @@
+.c24w {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+}
+
+.c24 {
+  font-size: .9rem;
+  color: var(--a6);
+}
