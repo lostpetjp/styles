@@ -1,0 +1,38 @@
+@media screen and (min-width:1024px) {
+  .d2 {
+    display: grid;
+    grid-template-columns: min-content 1fr;
+    grid-template-rows: 1fr;
+  }
+
+  .d2a {
+    padding-right: 32px;
+    padding-bottom: 128px;
+    padding-left: 32px;
+    background-color: var(--b2);
+  }
+
+  .d2b {
+    width: 240px;
+    grid-area: 1 / 1 / 2 / 2;
+  }
+
+  .d2a1 {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: var(--b1);
+    padding: 48px;
+    border-radius: 6px;
+  }
+
+  .d2b1 {
+    position: sticky;
+    top: 49px;
+    left: 0;
+  }
+
+  .d2b1b {
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
