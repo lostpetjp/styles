@@ -1,0 +1,49 @@
+/* input[type=text], textarea */
+.c15i,
+.c15t {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid var(--b6);
+  background-color: var(--i1);
+}
+
+.c15i {
+  height: 40px;
+  padding: 0 8px;
+
+}
+
+.c15t {
+  padding: 8px;
+  resize: vertical;
+  min-height: 140px;
+}
+
+.c15i:focus,
+.c15t:focus {
+  background-color: var(--b1);
+}
+
+/* heading */
+.c15h {
+  font-size: 1rem;
+  padding: unset;
+  line-height: 1;
+  margin: 0 0 8px;
+  color: var(--a1);
+}
+
+@media (prefers-color-scheme: light) {
+  .t1 {
+    --i1: #f9fafb;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .t2 {
+    --i1: #232324;
+  }
+}
