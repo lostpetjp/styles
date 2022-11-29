@@ -1,0 +1,9 @@
+@media (prefers-reduced-motion: no-preference) {
+  .c19 {
+    transition: margin-left .15s;
+  }
+
+  .c19p {
+    margin-left: -275px;
+  }
+}
