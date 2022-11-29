@@ -1,0 +1,46 @@
+/* modal */
+.c17 {
+  border-radius: 6px;
+  box-shadow: var(--c11a);
+  background-color: var(--b1);
+  border: 1px solid var(--b6);
+  width: 480px;
+  max-height: 600px;
+
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  contain: layout paint;
+}
+
+.c17z {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding-right: 2px;
+  padding-left: 38px;
+  background-color: var(--b2);
+  border-bottom: 1px solid var(--b3);
+  flex-shrink: 0;
+}
+
+.c17z1 {
+  line-height: 1;
+  font-size: .9rem;
+  font-weight: 700;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.c17y {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.c17y:not(:hover)::-webkit-scrollbar {
+  display: none;
+}
+
+.c17b {
+  padding: 32px;
+}

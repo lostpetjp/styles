@@ -1,0 +1,10 @@
+@media (prefers-reduced-motion: no-preference) {
+  .c17 {
+    transition: margin-top .15s, opacity .15s;
+  }
+
+  .c17p {
+    margin-top: -16px;
+    opacity: 0;
+  }
+}
