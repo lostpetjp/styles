@@ -57,3 +57,9 @@
   padding-right: 16px;
   border-radius: 4px;
 }
+
+.d2b1b2b {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
