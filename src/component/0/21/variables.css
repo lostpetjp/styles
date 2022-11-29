@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: light) {
+  .t1 {
+    --c21: rgba(0, 0, 0, .618);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .t2 {
+    --c21: rgba(0, 0, 0, .84);
+  }
+}
