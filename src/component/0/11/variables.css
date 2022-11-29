@@ -1,0 +1,13 @@
+@media (prefers-color-scheme: light) {
+  .t1 {
+    --c11a: 0 2px 6px 2px rgb(60 64 67 / 15%);
+    --c11b: unset;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .t2 {
+    --c11a: unset;
+    --c11b: 1px solid var(--b6);
+  }
+}
