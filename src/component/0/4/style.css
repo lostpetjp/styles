@@ -1,0 +1,12 @@
+/* button */
+.c4w {
+  column-gap: 8px;
+  display: flex;
+  justify-content: center;
+}
+
+.c4 {
+  height: 40px;
+  line-height: 40px;
+  min-width: 100px;
+}
