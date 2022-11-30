@@ -32,6 +32,7 @@
 | 24 | form要素 - input element |
 | 25 | /search/ (検索ページ) |
 | 26 | /search/ (個々のitem) |
+| 27 | pager |
 
 
 
