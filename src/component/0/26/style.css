@@ -1,0 +1,91 @@
+.c26 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+
+.c26i {
+  font-size: .9rem;
+  background-color: var(--c26);
+  border-radius: 6px;
+  overflow: hidden;
+  contain: layout paint;
+  text-decoration: none;
+  color: var(--a2);
+}
+
+.c26a {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.o26a1 {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.o26a1a {
+  margin: 0 8px;
+  padding: unset;
+  font-size: .9rem;
+  color: var(--a1);
+  order: 3;
+}
+
+.o26a1d {
+  margin: 8px;
+  line-height: 1;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: center;
+  order: 4;
+}
+
+.o26a1b {
+  height: 32px;
+  line-height: 32px;
+  text-align: center;
+  color: #fff;
+  order: 1;
+}
+
+.o26a1c {
+  order: 2;
+}
+
+.c26g {
+  margin-bottom: 8px;
+  aspect-ratio: 4/3;
+  object-fit: cover;
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.o26a2 {
+  margin: 6px 8px 8px;
+}
+
+.o26a2 {
+  position: relative;
+}
+
+.o26a2n::after {
+  content: "\65B0\7740";
+  font-weight: 700;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  line-height: 1;
+  color: var(--a7);
+}
+
+.o26a2b {
+  display: block;
+  text-align: right;
+  line-height: 1;
+  margin-top: 6px;
+}
