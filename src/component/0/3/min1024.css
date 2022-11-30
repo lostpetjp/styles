@@ -1,8 +1,7 @@
 @media screen and (min-width:1024px) {
   .d2 {
-    display: grid;
-    grid-template-columns: min-content 1fr;
-    grid-template-rows: 1fr;
+    display: flex;
+    flex-direction: row-reverse;
   }
 
   .d2a {
@@ -10,11 +9,11 @@
     padding-bottom: 128px;
     padding-left: 32px;
     background-color: var(--b2);
+    width: calc(100% - 304px);
   }
 
   .d2b {
     width: 240px;
-    grid-area: 1 / 1 / 2 / 2;
   }
 
   .d2a1 {
