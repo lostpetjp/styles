@@ -1,0 +1,28 @@
+.o27 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  height: 40px;
+  align-items: center;
+  column-gap: 8px;
+  contain: layout paint;
+  list-style-type: none;
+}
+
+.o27a {
+  justify-content: center;
+  height: 40px;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  column-gap: 16px;
+  line-height: 1;
+}
+
+.o27d {
+  opacity: .4;
+}
+
+.o27d,
+.o27e {
+  pointer-events: none;
+}
