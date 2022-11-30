@@ -1,0 +1,5 @@
+@media screen and (min-width:600px) {
+  .c26 {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
