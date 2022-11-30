@@ -3,6 +3,10 @@
     background-color: var(--b2);
   }
 
+  .hb3:hover {
+    background-color: var(--b3);
+  }
+
   .ht1:hover {
     background-color: var(--t1h);
   }
