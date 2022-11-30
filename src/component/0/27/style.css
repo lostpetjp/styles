@@ -1,4 +1,4 @@
-.o27 {
+.c27 {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   height: 40px;
@@ -8,7 +8,7 @@
   list-style-type: none;
 }
 
-.o27a {
+.c27a {
   justify-content: center;
   height: 40px;
   border-radius: 4px;
@@ -18,11 +18,11 @@
   line-height: 1;
 }
 
-.o27d {
+.c27d {
   opacity: .4;
 }
 
-.o27d,
-.o27e {
+.c27d,
+.c27e {
   pointer-events: none;
 }
