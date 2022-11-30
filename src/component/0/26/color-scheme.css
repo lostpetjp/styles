@@ -1,0 +1,15 @@
+@media (prefers-color-scheme: light) {
+  .t2 {
+    --c26: var(--b1);
+  }
+
+  .c26i {
+    box-shadow: 0 16px 20px -5px rgb(0 0 0 / 10%), 0 4px 6px -6px rgb(0 0 0 / 10%);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .t2 {
+    --c26: var(--b2);
+  }
+}
