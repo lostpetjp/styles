@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: light) {
+  .t1 {
+    --c25a: #fff;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .t2 {
+    --c25a: #000;
+  }
+}
