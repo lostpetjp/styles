@@ -1,7 +1,8 @@
 html {
   background-color: var(--b1);
   color: var(--a2);
-  font: 400 15px/1.618 -apple-system, "BlinkMacSystemFont", Helvetica Neue, Helvetica, Arial, sans-serif;
+  /*font: 400 15px/1.618 -apple-system, "BlinkMacSystemFont", Helvetica Neue, Helvetica, Arial, sans-serif;*/
+  font: 400 15px/1.618 "Helvetica Neue", -apple-system, Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif;
   word-break: break-all;
 
   --s1: 8px;
