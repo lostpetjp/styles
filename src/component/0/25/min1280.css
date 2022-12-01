@@ -1,0 +1,22 @@
+@media screen and (min-width:1280px) {
+  .c25w {
+    display: flex;
+    column-gap: 16px;
+  }
+
+  .c25a1a {
+    width: 108px;
+  }
+
+  .c25a {
+    order: 1;
+  }
+
+  .c25b {
+    order: 3;
+  }
+
+  .c25c {
+    order: 2;
+  }
+}
