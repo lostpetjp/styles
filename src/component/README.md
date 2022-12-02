@@ -33,6 +33,8 @@
 | 25 | /search/ (検索ページ) |
 | 26 | /search/ (個々のitem) |
 | 27 | pager |
+| 28 | slider |
+| 29 | slider modal |
 
 
 
