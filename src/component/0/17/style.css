@@ -4,7 +4,7 @@
   box-shadow: var(--c11a);
   background-color: var(--b1);
   border: 1px solid var(--b6);
-  width: 480px;
+  width: min(100vw - 16px, 480px);
   max-height: 600px;
 
   display: flex;
