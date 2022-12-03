@@ -129,3 +129,27 @@
 .c25g {
   margin-bottom: 24px;
 }
+
+/* pager */
+.c25h {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+}
+
+.c25h1 {
+  color: var(--a3);
+  display: flex;
+  column-gap: 8px;
+  justify-content: center;
+}
+
+.c25h2 {
+  text-align: center;
+}
+
+.c25h2a {
+  margin-right: 8px;
+  font-weight: 700;
+  font-size: 1.618rem;
+}
