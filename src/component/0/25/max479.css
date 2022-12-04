@@ -13,6 +13,13 @@
   }
 
   .c25e1a {
+    line-height: 1;
+    display: grid;
+    align-items: center;
     font-size: .9rem;
+    grid-template-rows: 24px 16px;
+    align-items: end;
+    height: 50px;
   }
+
 }
