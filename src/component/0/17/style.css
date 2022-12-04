@@ -1,16 +1,22 @@
 /* modal */
 .c17 {
+  --c17: 480px;
+
   border-radius: 6px;
   box-shadow: var(--c11a);
   background-color: var(--b1);
   border: 1px solid var(--b6);
-  width: min(100vw - 16px, 480px);
+  width: min(100vw - 16px, var(--c17));
   max-height: 600px;
 
   display: flex;
   flex-direction: column;
   overflow: hidden;
   contain: layout paint;
+}
+
+.c17l {
+  --c17: 640px;
 }
 
 .c17z {
@@ -35,6 +41,7 @@
 .c17y {
   overflow-y: auto;
   overscroll-behavior: contain;
+  max-height: 40vh;
 }
 
 .c17y:not(:hover)::-webkit-scrollbar {
