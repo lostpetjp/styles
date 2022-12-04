@@ -1,4 +1,4 @@
 @import "./style.css";
 @import "./max479.css";
-@import "./max768.css";
+@import "./min768.css";
 @import "./min480.css";
