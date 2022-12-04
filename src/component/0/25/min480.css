@@ -5,5 +5,12 @@
     padding-right: 16px;
   }
 
-  .c25e1a1 {}
+  .c25e1a {
+    height: 40px;
+    line-height: 40px;
+  }
+
+  .c25e1a1 {
+    margin-left: 8px;
+  }
 }
