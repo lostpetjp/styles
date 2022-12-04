@@ -41,7 +41,7 @@
 .c17y {
   overflow-y: auto;
   overscroll-behavior: contain;
-  max-height: 40vh;
+  max-height: 50vh;
 }
 
 .c17y:not(:hover)::-webkit-scrollbar {
