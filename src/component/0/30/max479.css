@@ -1,0 +1,23 @@
+@media screen and (max-width:479px) {
+  .c30a1a {
+    font-size: .9rem;
+  }
+
+  .c30 {
+    padding: 4px;
+  }
+
+  .c30a {
+    gap: 2px;
+  }
+
+  .c30b {
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2px;
+  }
+
+  .c30a1a1 {
+    margin-left: 4px;
+  }
+
+}
