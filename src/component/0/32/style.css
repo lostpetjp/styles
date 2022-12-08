@@ -1,0 +1,19 @@
+.c32w {
+  background-color: rgb(253 246 178);
+  color: var(--a1);
+}
+
+.c32p {
+  background-color: rgb(222 247 236);
+  color: var(--a1);
+}
+
+.c32n {
+  background-color: rgb(253 232 232);
+  color: var(--a1);
+}
+
+.c32i {
+  background-color: rgb(225 239 254);
+  color: var(--a1);
+}
