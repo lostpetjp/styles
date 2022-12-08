@@ -37,6 +37,8 @@
 | 29 | slider modal |
 | 30 | 検索フィルター |
 | 31 | breadcrumb |
+| 32 | alert color set |
+| 33 | top message |
 
 
 
