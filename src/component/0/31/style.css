@@ -1,0 +1,21 @@
+.c31 {
+  margin: unset;
+  padding: unset;
+  list-style-type: none;
+  display: flex;
+  column-gap: 8px;
+  line-height: 1;
+  flex-wrap: wrap;
+  row-gap: 12px;
+  font-size: .9rem;
+}
+
+.c31a {
+  display: flex;
+  column-gap: 8px;
+  align-items: center;
+}
+
+.c31a1 {
+  color: var(--a2);
+}
