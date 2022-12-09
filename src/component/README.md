@@ -39,6 +39,8 @@
 | 31 | breadcrumb |
 | 32 | alert color set |
 | 33 | top message |
+| 34 | 案件個別 |
+| 35 | PhotoSwipe |
 
 
 
