@@ -1,0 +1,6 @@
+@media screen and (min-width:480px) {
+
+  .c34f1b4 {
+    grid-template-columns: repeat(6, 1fr);
+  }
+}
