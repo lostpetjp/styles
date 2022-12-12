@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: light) {
+  .t1 {
+    --c34n: #dbeafe;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .t2 {
+    --c34n: #1e3a8a;
+  }
+}
