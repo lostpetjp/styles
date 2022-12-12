@@ -1,0 +1,24 @@
+@media screen and (min-width:480px) {
+  .c34e {
+    flex-direction: row-reverse;
+    /*justify-content: space-between;*/
+    align-items: center;
+  }
+
+  .c34e1 {
+    display: flex;
+    justify-content: end;
+  }
+
+  .c34e2 {
+    margin-right: auto;
+  }
+
+  .c34e1a {
+    width: 80px;
+  }
+
+  .c34d1a {
+    width: 80px;
+  }
+}
