@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: light) {
+  .c33 {
+    box-shadow: 0 16px 20px -5px rgb(0 0 0 / 10%), 0 4px 6px -6px rgb(0 0 0 / 10%);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .c33 {
+    box-shadow: 0 16px 20px -5px rgb(0 0 0 / 50%), 0 4px 6px -6px rgb(0 0 0 / 50%);
+  }
+}
