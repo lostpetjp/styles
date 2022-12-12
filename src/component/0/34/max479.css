@@ -1,0 +1,15 @@
+@media screen and (max-width:479px) {
+  .c34e {
+    flex-direction: column;
+    row-gap: 24px;
+  }
+
+  .c34e1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  .c34e2 {
+    text-align: right;
+  }
+}
