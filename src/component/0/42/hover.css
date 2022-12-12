@@ -1,0 +1,9 @@
+@media (hover: hover) {
+  .c42n1:hover {
+    opacity: .8;
+  }
+
+  .c42o2a:hover {
+    color: var(--a3);
+  }
+}
