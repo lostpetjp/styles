@@ -1,0 +1,15 @@
+@media screen and (min-width:768px) {
+  .c34f1 {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+  }
+
+  .c34f1a {
+    height: 40px;
+    line-height: 40px;
+  }
+
+  .c34f1b3a {
+    line-height: 1;
+  }
+}
