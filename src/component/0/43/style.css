@@ -1,0 +1,26 @@
+/* photo */
+.c43c1 {
+  margin-left: auto;
+  margin-right: auto;
+  width: min(400px, 100%);
+}
+
+.c43c2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 8px;
+}
+
+.c43c3 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 8px;
+}
+
+.c43g {
+  max-width: 100%;
+  border-radius: 6px;
+  cursor: zoom-in;
+  aspect-ratio: 4/3;
+  height: auto;
+}
