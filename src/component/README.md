@@ -37,10 +37,19 @@
 | 29 | slider modal |
 | 30 | 検索フィルター |
 | 31 | breadcrumb |
-| 32 | alert color set |
+| 32 | alert color warning |
 | 33 | top message |
 | 34 | 案件個別 |
 | 35 | PhotoSwipe |
+| 36 | コメントフォーム |
+| 37 | input, textarea color |
+| 38 | コメント |
+| 39 | alert color infomation |
+| 40 | alert color positive |
+| 41 | alert color negative |
+| 42 | 案件のコメント関連 |
+| 43 | 案件の写真関連 |
+| 44 | 案件の動画関連 |
 
 
 
