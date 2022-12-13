@@ -1,0 +1,25 @@
+@media (prefers-color-scheme: light) {
+  .t1 {
+    --c34e1: var(--b1);
+    --c34e2: 0 0 2em rgb(88 88 88 / 40%);
+  }
+}
+
+@media (hover: hover) and (prefers-color-scheme: light) {
+  .t1 {
+    --c34e3: var(--b2);
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .t2 {
+    --c34e1: var(--b2);
+    --c34e2: 0 0 2em rgb(0 0 0 / 61.8%);
+  }
+}
+
+@media (hover: hover) and (prefers-color-scheme: dark) {
+  .t2 {
+    --c34e3: var(--b3);
+  }
+}
