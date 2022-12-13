@@ -1,0 +1,51 @@
+.c20m::-webkit-scrollbar {
+  display: none;
+}
+
+.c20 {
+  background-color: var(--b1);
+  z-index: 3;
+}
+
+.c20a {
+  height: 40px;
+  border-bottom: 1px solid var(--b3);
+  transition: margin-top .2s;
+  display: flex;
+  padding-left: 8px;
+  padding-right: 8px;
+  column-gap: 8px;
+  background-color: var(--b2);
+  position: sticky;
+  top: 0;
+  left: 0;
+}
+
+.c20ap {
+  margin-top: 120px;
+}
+
+.c20a1 {
+  width: 16px;
+  height: 16px;
+  padding: 8px;
+  margin-top: 4px;
+  border-radius: 6px;
+}
+
+.c20a2 {
+  width: calc(100% - 56px);
+  text-align: center;
+  margin-right: 40px;
+  line-height: 40px;
+  font-weight: 700;
+  font-size: .9rem;
+}
+
+.c20b {
+  min-height: calc(100vh - 41px);
+}
+
+.c20bp {
+  display: none;
+}
