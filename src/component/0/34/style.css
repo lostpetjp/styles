@@ -105,3 +105,40 @@
   flex-direction: column;
   row-gap: 16px;
 }
+
+
+
+.c34l {
+  margin-top: 32px;
+}
+
+
+
+/* share */
+.c34e3 {
+  position: fixed;
+  left: 16px;
+  bottom: 16px;
+  contain: layout;
+  left: calc(50% - var(--c34e4));
+  display: flex;
+  column-gap: 16px;
+  z-index: 2;
+}
+
+.c34e3a {
+  width: 28px;
+  height: 28px;
+  padding: 12px;
+  background-color: var(--c34e1);
+  border-radius: 26px;
+  box-shadow: var(--c34e2);
+}
+
+.c34e3c3 {
+  --c34e4: 94px;
+}
+
+.c34e3c4 {
+  --c34e4: 128px;
+}
