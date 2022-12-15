@@ -17,3 +17,7 @@ img,
 svg {
   display: block;
 }
+
+.p {
+  visibility: hidden;
+}
